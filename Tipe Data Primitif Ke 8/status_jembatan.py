@@ -1,0 +1,3 @@
+jembatan = True
+
+print(jembatan)

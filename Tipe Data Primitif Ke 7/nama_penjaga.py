@@ -1,0 +1,3 @@
+penjaga = "ikhawan"
+
+print(penjaga)
