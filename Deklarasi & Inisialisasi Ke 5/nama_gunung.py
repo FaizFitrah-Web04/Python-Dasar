@@ -1,0 +1,3 @@
+gunung = "bromo"
+
+print(gunung)

@@ -1,0 +1,3 @@
+mesin = False
+
+print(mesin)
